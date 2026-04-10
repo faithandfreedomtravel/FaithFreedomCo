@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /credicard.html
+
+Sitemap: https://www.faithfreedomtravel.com/sitemap.xml
